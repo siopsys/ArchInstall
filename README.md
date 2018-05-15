@@ -52,5 +52,5 @@ I use the user repo a lot, I have started to manually install these packages but
 
 
 ## Addons for Ranger
-A full list can be found on the package page for ranger
+A full list can be found on the package page for ranger  
 `pacman -S atool elinks ffmpegthumbnailer poppler w3m transmission-cli mediainfo odt2txt`  
