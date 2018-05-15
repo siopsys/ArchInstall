@@ -22,6 +22,11 @@ I use dmenu as well for my application launcher
 `pacman -S dmenu`  
 
 
+## Greeter
+LightDM install as my greeter  
+`pacman -S lightdm lightdm-gtk-greeter`
+`sudo systemctl enable lightdm.service`  
+
 ## Networking
 Enable DHCP on your ethernet connection  
 `systemctl enable dhcpcd@enp0s25`  
