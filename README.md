@@ -36,4 +36,11 @@ I like to set up a new group and use that for my sudoers
 `groupadd sudoers`  
 add `%sudoers ALL=(ALL) ALL)` to visudo  
 `useradd -m -g sudoers siopsys`  
--m will make the home directory  
+-m will make the home directory 
+
+
+## AUR
+I use the user repo a lot, I have started to manually install these packages but a wrapper is still nice. I use aurman  
+`git clone https://aur.archlinux.org/aurman.git`  
+`cd aurman`  
+`makepkg -si`  
