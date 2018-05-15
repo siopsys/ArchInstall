@@ -16,7 +16,7 @@ Here is a list of applications I use
 ## WM
 I use i3wm as my window manager  
 `pacman -S i3 i3status i3blocks i3lock`  
-`pacman -S xorg xorg-server xorg-xinit xorg-xrandr`  
+`pacman -S xorg xorg-server xorg-xinit xorg-xrandr mesa`  
 `echo "exec i3" >> ~/.xinitrc`  
 I use dmenu as well for my application launcher  
 `pacman -S dmenu`  
