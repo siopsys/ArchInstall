@@ -54,3 +54,12 @@ I use the user repo a lot, I have started to manually install these packages but
 ## Addons for Ranger
 A full list can be found on the package page for ranger  
 `pacman -S atool elinks ffmpegthumbnailer poppler w3m transmission-cli mediainfo odt2txt`  
+
+
+## Font/Themes
+Linux Libertine  
+`pacman -S ttf-linux-libertine ttf-linux-libertine-g`  
+papirus icons  
+`pacman -S papirus-icon-theme`  
+numix theme  
+`pacman -S numix-gtk-theme`  
