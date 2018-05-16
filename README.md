@@ -11,6 +11,7 @@ Here is a list of applications I use
   - CMUS : Command line Music Player
   - mplayer : Command line Video/Media Player
   - Ranger : Command line File Manager
+  - KeePassXC : Offline Password Manager
 
 
 ## WM
