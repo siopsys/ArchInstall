@@ -63,3 +63,7 @@ papirus icons
 `pacman -S papirus-icon-theme`  
 numix theme  
 `pacman -S numix-gtk-theme`  
+
+## VIM
+Need vundle for vim plugins  
+`aurman -S vundle`  
