@@ -12,6 +12,7 @@ Here is a list of applications I use
   - mplayer : Command line Video/Media Player
   - Ranger : Command line File Manager
   - KeePassXC : Offline Password Manager
+  - zsh : shell of choice, oh-my-zsh is used  
 
 
 ## WM
