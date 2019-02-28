@@ -26,7 +26,7 @@ I use dmenu as well for my application launcher
 
 ## Greeter
 LightDM install as my greeter  
-`pacman -S lightdm lightdm-gtk-greeter`
+`pacman -S lightdm lightdm-gtk-greeter`  
 `sudo systemctl enable lightdm.service`  
 
 ## Networking
