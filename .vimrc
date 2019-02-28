@@ -13,7 +13,6 @@ call vundle#begin()
 
 " plugins
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'dracula/vim'
 Plugin 'bling/vim-airline'
 " Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
