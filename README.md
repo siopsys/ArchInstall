@@ -16,8 +16,8 @@ Here is a list of applications I use
 
 
 ## WM
-I use i3wm as my window manager  
-`pacman -S i3 i3status i3blocks i3lock`  
+I use i3wm as my window manager / I've not explored i3blocks just yet but install anyway  
+`pacman -S i3-wm i3status i3blocks i3lock`  
 `pacman -S xorg xorg-server xorg-xinit xorg-xrandr mesa`  
 `echo "exec i3" >> ~/.xinitrc`  
 I use dmenu as well for my application launcher  
@@ -47,10 +47,10 @@ add `%sudoers ALL=(ALL) ALL)` to visudo
 
 
 ## AUR
-I use the user repo a lot, I have started to manually install these packages but a wrapper is still nice. I use aurman  
-`git clone https://aur.archlinux.org/aurman.git`  
-`cd aurman`  
-`makepkg -si`  
+I use the user repo a lot, I have started to manually install these packages but a wrapper is still nice. I use yay  
+`git clone https://aur.archlinux.org/yay.git`
+`cd yay`
+`makepkg -si`
 
 
 ## Addons for Ranger
@@ -60,11 +60,11 @@ A full list can be found on the package page for ranger
 
 ## Font/Themes
 Linux Libertine  
-`pacman -S ttf-linux-libertine ttf-linux-libertine-g`  
+`pacman -S terminus-font`  
 papirus icons  
 `pacman -S papirus-icon-theme`  
 numix theme  
-`pacman -S numix-gtk-theme`  
+`pacman -S adapta-gtk-theme`  
 
 ## VIM
 Need vundle for vim plugins  
