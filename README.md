@@ -48,9 +48,9 @@ add `%sudoers ALL=(ALL) ALL)` to visudo
 
 ## AUR
 I use the user repo a lot, I have started to manually install these packages but a wrapper is still nice. I use yay  
-`git clone https://aur.archlinux.org/yay.git`
-`cd yay`
-`makepkg -si`
+`git clone https://aur.archlinux.org/yay.git`  
+`cd yay`  
+`makepkg -si`  
 
 
 ## Addons for Ranger
