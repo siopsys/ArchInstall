@@ -1,0 +1,38 @@
+!! ================== seoul256 ====================================
+
+! seoul256 (dark) theme adapted for URxvt
+URxvt*background: #3a3a3a 
+URxvt*foreground: #d0d0d0 
+URxvt*color0: #4e4e4e
+URxvt*color1: #d68787 
+URxvt*color2: #5f865f
+URxvt*color3: #d8af5f
+URxvt*color4: #85add4
+URxvt*color5: #d7afaf
+URxvt*color6: #87afaf
+URxvt*color7: #d0d0d0
+URxvt*color8: #626262
+URxvt*color9: #d75f87
+URxvt*color10: #87af87
+URxvt*color11: #ffd787 
+URxvt*color12: #add4fb
+URxvt*color13: #ffafaf
+URxvt*color14: #87d7d7
+URxvt*color15: #e4e4e4
+URxvt*cursorColor: #d0d0d0
+URxvt*cursorColor2: #3a3a3a
+URxvt*colorBD: #e4e4e4
+
+! Rofi Config
+rofi.color-enabled: true
+rofi.color-window: #0e0f12, #0e0f12, #0e0f12
+rofi.color-normal: #0e0f12, #d8dee8, #0e0f12, #0e0f12, #1538ea
+rofi.color-active: #0e0f12, #b48ead, #0e0f12, #0e0f12, #93e5cc
+rofi.color-urgent: #0e0f12, #ebcb8b, #0e0f12, #0e0f12, #ebcb8b
+rofi.modi: run,drun,window
+
+! Dmenu Config
+dmenu.selforeground:	#d8dee8
+dmenu.background:	#0e0f12
+dmenu.selbackgroud:	#1538ea
+dmenu.foreground:	#d8dee8
