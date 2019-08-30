@@ -56,8 +56,9 @@ A full list can be found on the package page for ranger
 `pacman -S atool elinks ffmpegthumbnailer poppler w3m transmission-cli mediainfo odt2txt`  
 
 ## Fonts  
- - Fira code
+ - Fira Code
  - Fira Mono
+ - Fira Sans
  - Libtertine
  - FontAwesome
 These are my base and I'll build on them as the need grows   
