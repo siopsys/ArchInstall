@@ -1,0 +1,7 @@
+/* Global UI font */
+* {
+	font-size: 12px !important;
+	/*font-weight: bold !important;*/
+	font-family: Fira Mono !important;
+}
+
